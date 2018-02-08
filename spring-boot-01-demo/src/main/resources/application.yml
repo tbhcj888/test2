@@ -1,0 +1,5 @@
+itheima:
+  name: name0
+spring:
+  profiles:
+    active: a,b
